@@ -31,4 +31,13 @@ atef elmla7
         font.setPointSize(10)
         font.setBold(False)
         font.setWeight(50)
+        self.label_322.setFself.lineEdit_133.setFont(font)
+        self.lineEdit_133.setLayoutDirection(QtCore.Qt.RightToLeft)
+        self.lineEdit_133.setObjectName("lineEdit_133")
+        self.label_322 = QtWidgets.QLabel(self.centralwidget)
+        self.label_322.setGeometry(QtCore.QRect(1300, 180, 136, 33))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(False)
+        font.setWeight(50)
         self.label_322.setF
